@@ -93,7 +93,18 @@ body{
 
 }
 
+.poll-content h6{
+  font-weight: bold;
+}
 
+.form-check{
+  margin-bottom: 20px;
+}
+
+.poll-content > .btn{
+  margin-bottom: 10px;
+
+}
 
 
 
